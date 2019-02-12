@@ -1,0 +1,10 @@
+syntax on
+set spell spelllang=en_us
+set mouse=a
+set tabstop=4
+set nu
+set textwidth=77
+hi SpellBad ctermfg=007  ctermbg=001 cterm=none
+
+
+
